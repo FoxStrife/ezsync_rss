@@ -1,0 +1,16 @@
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Arquivo de configuração</comment>
+    <entry key="CLIENTE">02477571000147</entry>
+    <entry key="SISTEMA">3</entry>
+    <entry key="BANCO">3</entry>
+    <entry key="CAMINHO">C:\\\\Viasoft\\\\Dados\\\\dental.FDB</entry>
+    <entry key="IP">127.0.0.1</entry>
+	<entry key="PORTA">3050</entry>
+    <entry key="USER">SYSDBA</entry>
+    <entry key="PWD">masterkey</entry>
+	<entry key="TOKEN">b7bfc5f1-54af-11ea-9626-ede3ec070ee5</entry>
+	<entry key="USER_RSDATA">integracao.db0745apresenta@rsdata.com.br</entry>
+	<entry key="PASSWORD_RSDATA">21753ef24af23bd6cc64435a1a4b4137</entry>
+    <entry key="TIMEPERPOST">30000</entry>
+</properties>
