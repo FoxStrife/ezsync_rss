@@ -81,6 +81,7 @@ public class Produtor {
 	public static ResultSet rsdw5 = null;
 	public static String Json = null;
 	public static int ultobj = 0;
+	
 	public static JsonObject jsonfinal = new JsonObject();
 
 	public static Produtor enviaFila() throws JMSException, EmailException, MalformedURLException {
